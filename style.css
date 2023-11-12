@@ -39,9 +39,8 @@ div {
   justify-content: center;
   align-items: center;
   color: white;
-  font-size: 10vh;
+  font-size: 15vh;
   box-shadow:  20px 5px 10px rgba(0, 0, 240, .9);
-  text-outline: 3px black solid;
 }
 
 #yes-circle {
